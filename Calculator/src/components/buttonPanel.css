@@ -1,0 +1,17 @@
+.container{
+    display: inline-block;
+     margin-top: 50px;
+     border:2px solid black;
+   
+}
+
+.div-row{
+display: flex;
+flex-wrap: wrap;
+
+}
+
+button{
+    width: 80px;
+    height: 80px;
+}
